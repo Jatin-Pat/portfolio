@@ -8,7 +8,6 @@ Welcome to my GitHub portfolio! This repository serves as a collection of projec
 - [Machine Learning](#machine-learning)
 - [Full Stack Development](#full-stack-development)
 - [Backend Development](#backend-development)
-- [ECSE223 AssetPlus Project](#ecse223-assetplus-project) (Coming Soon)
 
 ---
 
@@ -43,11 +42,6 @@ GitFit is a web application designed to manage sport centers. It helps owners an
 🔧 **Tools:** .NET Core, SQL Server, RabbitMQ, gRPC, Kubernetes, Docker  
 📜 **Project Description:**  
 This project demonstrates building and deploying a microservices architecture using .NET. It includes multiple services with dedicated persistence layers and features inter-service communication using both synchronous (HTTP/gRPC) and asynchronous (RabbitMQ) messaging patterns.
-
----
-
-## 📈 ECSE223 AssetPlus Project: Team N
-**(Coming Soon)**
 
 ---
 
