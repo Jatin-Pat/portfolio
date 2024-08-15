@@ -1,6 +1,6 @@
 # Jatin Patel's GitHub Portfolio 🎓
 
-Welcome to my GitHub portfolio! This repository showcases a selection of my projects across different domains, including Machine Learning, Full Stack Development, and Backend Development.
+Welcome to my GitHub portfolio! This repository serves as a collection of projects I've completed throughout my academic journey and personal initiatives. Below, you'll find a summary of key projects, categorized by technology and focus area.
 
 ---
 
