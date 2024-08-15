@@ -14,7 +14,7 @@ Welcome to my GitHub portfolio! This repository serves as a collection of projec
 ## Machine Learning
 
 ### [Financial News Sentiment Analysis](https://github.com/Jatin-Pat/MAIS-202)
-🔧 **Tools:** Python, Scikit-Learn, Spacy, Flask  
+🔧 **Tools:** Python, Scikit-Learn, Spacy, Pandas, Flask  
 📜 **Project Description:**  
 This project predicts sentiment in financial news reports to gauge analysts' perceptions about publicly traded companies. I implemented the Naive Bayes classifier model using Scikit-Learn, and named-entity recognition (NER) using the Spacy library. The web app was built using Flask.
 
@@ -23,7 +23,7 @@ This project predicts sentiment in financial news reports to gauge analysts' per
 ## Full Stack Development
 
 ### [SixthSense: Financial Data Visualization](https://github.com/Jatin-Pat/SixthSense-ConUHacks)
-🔧 **Tools:** React, Spring Boot  
+🔧 **Tools:** Java, Spring Boot, JavaScript, React
 📜 **Project Description:**  
 SixthSense delivers financial insights by leveraging market data feeds. Developed using React and Spring Boot, the platform provides real-time updates on stock prices, tracks market activities, and incorporates anomaly detection to flag irregularities in market orders.
 
@@ -39,7 +39,7 @@ GitFit is a web application designed to manage sport centers. It helps owners an
 ## Backend Development
 
 ### [PlatformService](https://github.com/Jatin-Pat/PlatformService)
-🔧 **Tools:** .NET Core, SQL Server, RabbitMQ, gRPC, Kubernetes, Docker  
+🔧 **Tools:** C#, .NET Core, SQL Server, RabbitMQ, gRPC, Kubernetes, Docker  
 📜 **Project Description:**  
 This project demonstrates building and deploying a microservices architecture using .NET. It includes multiple services with dedicated persistence layers and features inter-service communication using both synchronous (HTTP/gRPC) and asynchronous (RabbitMQ) messaging patterns.
 
