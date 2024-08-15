@@ -5,9 +5,9 @@ Welcome to my GitHub portfolio! This repository serves as a collection of projec
 ---
 
 ## 📚 Table of Contents
-- [Machine Learning](#-machine-learning)
-- [Full Stack Development](#-full-stack-development)
-- [Backend Development](#-backend-development)
+- [Machine Learning](#machine-learning)
+- [Full Stack Development](#full-stack-development)
+- [Backend Development](#backend-development)
 
 ---
 
