@@ -5,9 +5,9 @@ Welcome to my GitHub portfolio! This repository serves as a collection of projec
 ---
 
 ## 📚 Table of Contents
-- [Machine Learning](#machine-learning)
-- [Full Stack Development](#full-stack-development)
-- [Backend Development](#backend-development)
+- [Machine Learning](#-machine-learning)
+- [Full Stack Development](#-full-stack-development)
+- [Backend Development](#-backend-development)
 
 ---
 
@@ -44,4 +44,3 @@ GitFit is a web application designed to manage sport centers. It helps owners an
 This project demonstrates building and deploying a microservices architecture using .NET. It includes multiple services with dedicated persistence layers and features inter-service communication using both synchronous (HTTP/gRPC) and asynchronous (RabbitMQ) messaging patterns.
 
 ---
-
