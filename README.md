@@ -5,13 +5,13 @@ Welcome to my GitHub portfolio! This repository showcases a collection of projec
 ---
 
 ## 📚 Table of Contents
-- [Machine Learning](#🤖machine-learning)
-- [Full Stack Development](#🌐full-stack-development)
-- [Backend Development](#🛠️backend-development)
+- [🤖 Machine Learning](#machine-learning)
+- [🌐 Full Stack Development](#full-stack-development)
+- [🛠️ Backend Development](#backend-development)
 
 ---
 
-## 🤖 Machine Learning
+## Machine Learning
 
 ### [Financial News Sentiment Analysis](https://github.com/Jatin-Pat/MAIS-202)
 **Tools:** `Python`, `Scikit-Learn`, `Spacy`, `Pandas`, `Flask`  
@@ -20,7 +20,7 @@ This project predicts sentiment in financial news reports to gauge analysts' per
 
 ---
 
-## 🌐 Full Stack Development
+## Full Stack Development
 
 ### [SixthSense: Financial Data Visualization](https://github.com/Jatin-Pat/SixthSense-ConUHacks)
 **Tools:** `Java`, `Spring Boot`, `JavaScript`, `React`  
@@ -36,7 +36,7 @@ GitFit is a web application designed to manage sport centers. It helps owners an
 
 ---
 
-## 🛠️ Backend Development
+## Backend Development
 
 ### [PlatformService](https://github.com/Jatin-Pat/PlatformService)
 **Tools:** `C#`, `.NET Core`, `SQL Server`, `RabbitMQ`, `gRPC`, `Kubernetes`, `Docker`  
