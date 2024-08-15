@@ -1,4 +1,4 @@
-# Jatin Patel's GitHub Portfolio 🎓
+# Jatin's Portfolio 🎓
 
 Welcome to my GitHub portfolio! This repository serves as a collection of projects I've completed throughout my academic journey and personal initiatives. Below, you'll find a summary of key projects, categorized by technology and focus area.
 
