@@ -38,7 +38,7 @@ GitFit is a web application designed to manage sport centers. It helps owners an
 
 ## 🛠️ Backend Development
 
-### [Microservices Architecture with .NET](https://github.com/Jatin-Pat/PlatformService)
+### [PlatformService](https://github.com/Jatin-Pat/PlatformService)
 🔧 **Tools:** .NET Core, SQL Server, RabbitMQ, gRPC, Kubernetes, Docker  
 📜 **Project Description:**  
 This project demonstrates building and deploying a microservices architecture using .NET. It includes multiple services with dedicated persistence layers and features inter-service communication using both synchronous (HTTP/gRPC) and asynchronous (RabbitMQ) messaging patterns.
