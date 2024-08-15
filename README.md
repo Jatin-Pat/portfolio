@@ -5,13 +5,13 @@ Welcome to my GitHub portfolio! This repository serves as a collection of projec
 ---
 
 ## 📚 Table of Contents
-- [🤖 Machine Learning](#-machine-learning)
-- [🌐 Full Stack Development](#-full-stack-development)
-- [🛠️ Backend Development](#-backend-development)
+- [Machine Learning](#machine-learning)
+- [Full Stack Development](#full-stack-development)
+- [Backend Development](#backend-development)
 
 ---
 
-## 🤖 Machine Learning
+## Machine Learning
 
 ### [Financial News Sentiment Analysis](https://github.com/Jatin-Pat/MAIS-202)
 🔧 **Tools:** Python, Scikit-Learn, Spacy, Flask  
@@ -20,7 +20,7 @@ This project predicts sentiment in financial news reports to gauge analysts' per
 
 ---
 
-## 🌐 Full Stack Development
+## Full Stack Development
 
 ### [SixthSense: Financial Data Visualization](https://github.com/Jatin-Pat/SixthSense-ConUHacks)
 🔧 **Tools:** React, Spring Boot  
@@ -36,12 +36,11 @@ GitFit is a web application designed to manage sport centers. It helps owners an
 
 ---
 
-## 🛠️ Backend Development
+## Backend Development
 
 ### [PlatformService](https://github.com/Jatin-Pat/PlatformService)
 🔧 **Tools:** .NET Core, SQL Server, RabbitMQ, gRPC, Kubernetes, Docker  
 📜 **Project Description:**  
 This project demonstrates building and deploying a microservices architecture using .NET. It includes multiple services with dedicated persistence layers and features inter-service communication using both synchronous (HTTP/gRPC) and asynchronous (RabbitMQ) messaging patterns.
 
----
-
+--- 
