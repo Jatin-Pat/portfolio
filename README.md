@@ -5,9 +5,9 @@ Welcome to my GitHub portfolio! This repository serves as a collection of projec
 ---
 
 ## 📚 Table of Contents
-- [Machine Learning](#-machine-learning)
-- [Full Stack Development](#-full-stack-development)
-- [Backend Development](#-backend-development)
+- [Machine Learning](#machine-learning)
+- [Full Stack Development](#full-stack-development)
+- [Backend Development](#backend-development)
 
 ---
 
@@ -30,7 +30,7 @@ SixthSense delivers financial insights by leveraging market data feeds. Develope
 ---
 
 ### [GitFit: Sport Center Management System](https://github.com/Jatin-Pat/GitFit)
-🔧 **Tools:** Java, Spring Boot, PostgreSQL, Vue.js, JUnit
+🔧 **Tools:** Java, Spring Boot, PostgreSQL, Vue.js, JUnit  
 📜 **Project Description:**  
 GitFit is a web application designed to manage sport centers. It helps owners and instructors organize classes and provides customers with an intuitive platform to explore schedules and register for sessions. This full-stack project involves both frontend and backend development, ensuring seamless management of sport center operations.
 
