@@ -25,7 +25,7 @@ Predicts sentiment in financial news to analyze analyst tone toward companies. U
 
 ## Full Stack Development
 
-### [Cranki: Task Management App](https://github.com/Jatin-Pat/Cranki)
+### [Cranki: Task Management App](https://github.com/vladarama/cranki)
 **Tools:** `React`, `Vite`, `Spring Boot`, `Gradle`, `REST API`  
 📜 **Project Description:**  
 Cranki is a modern task manager with support for priority-based task creation, status tracking, filtering, and an intuitive UI. The frontend is built with React and Vite, and the backend uses Spring Boot with RESTful services.
